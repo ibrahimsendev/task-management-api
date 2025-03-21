@@ -26,6 +26,7 @@ This project is a **Task Management API** developed using Laravel 12. It provide
 3. **Set up environment file:**
    ```sh
    cp .env.example .env
+   php artisan key:generate
    ```
 
 4. **Configure your database in the `.env` file** and run migrations:
