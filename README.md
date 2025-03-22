@@ -14,7 +14,7 @@ This project is a **Task Management API** developed using Laravel 12. It provide
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/brhmsn80/task_management_api.git
+   git clone https://github.com/brhmsn80/task-management-api.git
    cd task-management-api
    ```
 
