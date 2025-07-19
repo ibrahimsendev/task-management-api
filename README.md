@@ -29,7 +29,7 @@ This project is a **Task Management API** developed using Laravel 12. It provide
    php artisan key:generate
    ```
 
-4. **Configure your database in the `.env` file** and run migrations:
+4. **Configure your database in the `.env` file and run migrations:**
    ```sh
    php artisan migrate
    ```
